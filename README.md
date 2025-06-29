@@ -104,7 +104,7 @@ Example: python3 R00tKeep3r.py -m -v --output /path/to/report.txt
 
 After execution, R00tKeep3r generates:
 
-* **Report** (`reporttxt`):
+* **Report** (`report.txt`):
 
   * Sections for each phase: Enumeration, SUID Exploits, Sudo Escapes, Kernel PoCs, Cron Jobs
   * Timestamped entries and `whoami` verification results
