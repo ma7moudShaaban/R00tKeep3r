@@ -1,6 +1,6 @@
 # R00tKeep3r
 
-A comprehensive post-exploitation automation and privilege escalation framework
+A comprehensive post-exploitation automation and privilege escalation Toolkit
 
 ![GitHub stars](https://img.shields.io/github/stars/ma7moudShaaban/R00tKeep3r?style=social) ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
